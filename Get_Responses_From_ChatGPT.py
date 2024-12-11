@@ -3,7 +3,7 @@ from openai import OpenAI
 import pandas as pd
 
 client = OpenAI(
-    api_key="YOUR-OPENAI-KEY-GOES-HERE",
+    api_key="YOUR-API-KEY",
 )
 
 def read_questions_from_excel(input_file_path, column_name="questions"):
