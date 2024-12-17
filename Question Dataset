@@ -6,7 +6,7 @@ Number	Subject	    Question
 5	      Algebra	    An astronaut is in a launched rocket currently 15 miles in altitude. If a man is standing 2 miles from the launch pad, at what angle is the astronaut looking down at him from horizontal?	
 7	      Calculus	  For f(x) = (x^2) + 3x + 2, find f′(1).	
 8	      Calculus	  Evaluate lim x -> ∞ (x^(1/(ln(x))))	
-9	      Calculus	  Evaluate the definite integral from 1 to 2 of (x^-4) dx
+9	      Calculus	  Evaluate the definite integral from 1 to 2 of (x^-4) dx 
 10	    Calculus	  If R is the region bounded above by the graph of the function f(x)=x and below by the graph of the function g(x)=x^4, find the area of region R.	
 11	    Statistics	What is the probability of drawing a club in a standard deck of 52 cards?	
 12	    Statistics	f(x), a continuous probability function, is equal to 1/12, and the function is restricted to 0 ≤ x ≤ 12. What is P(0 < x < 12)?	
