@@ -10,3 +10,6 @@ Found in the Repository:
  - The Question Dataset used in the Research
  - The Code used to get responses from ChatGPT
  - The Code used to get responses from Gemini
+
+Find the Full Paper Here: 
+ - [Comparative_Analysis_of_LLMs_for_Math_Education.pdf](https://github.com/user-attachments/files/19169677/Comparative_Analysis_of_LLMs_for_Math_Education.pdf)
